@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaibourven
-- 👀 I’m interested in coming (obviously) as well as travel and gaming
+- 👀 I’m interested in coding (obviously) as well as travel and gaming
 - 🌱 I’m currently learning Full-Stack Development and AI
 - 💞️ I’m looking to collaborate on A.I Saas 
 - 📫 How to reach me: coming soon
