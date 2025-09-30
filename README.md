@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaibourven
+- 👋 Hi, I’m @Jai
 - 👀 I’m interested in coding (obviously) as well as travel and gaming
 - 🌱 I’m currently learning Full-Stack Development and AI
 - 💞️ I’m looking to collaborate on A.I Saas 
