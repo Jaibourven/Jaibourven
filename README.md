@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Jai
-- 👀 I’m interested in coding (obviously) as well as travel and gaming
-- 🌱 I’m currently learning Full-Stack Development and AI
-- 💞️ I’m looking to collaborate on A.I Saas 
-- 📫 How to reach me: coming soon
-- ⚡ Fun fact: I love what's funny (which is fun for a fun fact)
+# Jaï
 
-<!---
-Jaibourven/Jaibourven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI-driven workflow automation, based in Switzerland.
+
+## Focus
+
+- Automating business processes with **n8n** and AI agents
+- Applying the **Claude** ecosystem (Claude, Claude Code) to practical, repeatable workflows
+- Data and scraping tooling: **Supabase**, **Apify**, **SerpApi**
+
+## Background
+
+- Customer service and after-sales support, with daily use of CRM and SAP-style tools
+- Languages: French, English
